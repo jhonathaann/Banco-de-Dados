@@ -2,8 +2,6 @@
 
 -- Ordene pelo nome do projeto de forma crescente
 
-
-
 select
     projnome 
 from 
